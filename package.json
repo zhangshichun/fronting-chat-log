@@ -1,0 +1,21 @@
+{
+  "name": "fronting-chat-log",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "repository": "git@github.com:zhangshichun/fronting-chat-log.git",
+  "author": "zhangshichun <zhangshichun_looper@aliyun.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.0.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.1.5",
+    "@vue/compiler-sfc": "^3.0.5",
+    "vite": "^2.0.5"
+  }
+}
